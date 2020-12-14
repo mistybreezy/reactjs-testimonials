@@ -1,11 +1,9 @@
 import { Component } from "react";
 
 import "./App.css";
-import $ from "jquery";
 import "popper.js";
 import "bootstrap/dist/js/bootstrap.js";
 import "bootstrap/dist/css/bootstrap.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class App extends Component {
   render() {
