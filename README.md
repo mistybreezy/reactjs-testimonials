@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](istran.nwet@gmail.com)
+
 # Build
 
 ```
