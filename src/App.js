@@ -39,6 +39,11 @@ class App extends Component {
                     data-bs-target="#carouselExample"
                     data-bs-slide-to="3"
                   ></li>
+
+                  <li
+                    data-bs-target="#carouselExample"
+                    data-bs-slide-to="4"
+                  ></li>
                 </ol>
                 <div className="carousel-inner">
                   <div className="carousel-item active" data-bs-interval="1000">
@@ -53,7 +58,7 @@ class App extends Component {
                       varius nibh non aliquet.
                     </p>
                     <p className="overview">
-                      <b>John Deo</b>, Media Analyst
+                      <b>Erwin Agpasa</b>, Software Developer
                     </p>
                   </div>
 
@@ -69,7 +74,7 @@ class App extends Component {
                       varius nibh non aliquet.
                     </p>
                     <p className="overview">
-                      <b>Paula Wilson</b>, Media Analyst
+                      <b>Aifa</b>, Architech
                     </p>
                   </div>
 
@@ -85,7 +90,7 @@ class App extends Component {
                       varius nibh non aliquet.
                     </p>
                     <p className="overview">
-                      <b>Paula Wilson</b>, Media Analyst
+                      <b>Angela</b>, Game Developer
                     </p>
                   </div>
 
@@ -101,7 +106,23 @@ class App extends Component {
                       varius nibh non aliquet.
                     </p>
                     <p className="overview">
-                      <b>Paula Wilson</b>, Media Analyst
+                      <b>Alexandra</b>, Media Analyst
+                    </p>
+                  </div>
+
+                  <div className="carousel-item">
+                    <div className="img-box">
+                      <img src="/images/testi_4.jpg" alt="" />
+                    </div>
+                    <p className="testimonial">
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
+                      magna metus, dapibus nec turpis vel, semper malesuada
+                      ante. Idac bibendum scelerisque non non purus. Suspendisse
+                      varius nibh non aliquet.
+                    </p>
+                    <p className="overview">
+                      <b>Amber</b>, Game Tester
                     </p>
                   </div>
                 </div>
