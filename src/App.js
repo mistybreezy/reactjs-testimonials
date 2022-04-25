@@ -14,7 +14,7 @@ class App extends Component {
             <div className="col-md-6 mx-auto">
               <h1 className="text-center white">Our Testimonials</h1>
               <p className="text-center white">
-                Take a look below to learn what our clients are saying about us:
+                Our interns have a wonderful time in KellyKinetix!. Take a look below to learn what our interns are saying about us:
               </p>
               <div
                 id="carouselExample"
