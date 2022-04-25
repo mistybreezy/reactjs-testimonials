@@ -48,14 +48,11 @@ class App extends Component {
                 <div className="carousel-inner">
                   <div className="carousel-item active" data-bs-interval="1000">
                     <div className="img-box">
-                      <img src="/images/testi_1.jpg" alt="" />
+                      <img src="/photo/1.jpg" alt="" />
                     </div>
                     <p className="testimonial">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
-                      magna metus, dapibus nec turpis vel, semper malesuada
-                      ante. Idac bibendum scelerisque non non purus. Suspendisse
-                      varius nibh non aliquet.
+                      Hello, glad to meet you. My name is Jingjing Gu. Web development intern is my role at KellyKinetix. Currently, my teammates and I are implementing features of the e-commerce page. In my free time, I read books and play baritone. Let's study and grow together.
+
                     </p>
                     <p className="overview">
                       <b>Erwin Agpasa</b>, Software Developer
@@ -64,14 +61,11 @@ class App extends Component {
 
                   <div className="carousel-item" data-bs-interval="2000">
                     <div className="img-box">
-                      <img src="/images/testi_2.jpg" alt="" />
+                      <img src="/photo/2.jpg" alt="" />
                     </div>
                     <p className="testimonial">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
-                      magna metus, dapibus nec turpis vel, semper malesuada
-                      ante. Idac bibendum scelerisque non non purus. Suspendisse
-                      varius nibh non aliquet.
+                      Hello, glad to meet you. My name is Jingjing Gu. Web development intern is my role at KellyKinetix. Currently, my teammates and I are implementing features of the e-commerce page. In my free time, I read books and play baritone. Let's study and grow together.
+
                     </p>
                     <p className="overview">
                       <b>Aifa</b>, Architech
@@ -80,14 +74,11 @@ class App extends Component {
 
                   <div className="carousel-item">
                     <div className="img-box">
-                      <img src="/images/testi_3.jpg" alt="" />
+                      <img src="/photo/1.jpg" alt="" />
                     </div>
                     <p className="testimonial">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
-                      magna metus, dapibus nec turpis vel, semper malesuada
-                      ante. Idac bibendum scelerisque non non purus. Suspendisse
-                      varius nibh non aliquet.
+                      Hello, glad to meet you. My name is Jingjing Gu. Web development intern is my role at KellyKinetix. Currently, my teammates and I are implementing features of the e-commerce page. In my free time, I read books and play baritone. Let's study and grow together.
+
                     </p>
                     <p className="overview">
                       <b>Angela</b>, Game Developer
@@ -96,14 +87,11 @@ class App extends Component {
 
                   <div className="carousel-item">
                     <div className="img-box">
-                      <img src="/images/testi_4.jpg" alt="" />
+                      <img src="/photo/2.jpg" alt="" />
                     </div>
                     <p className="testimonial">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
-                      magna metus, dapibus nec turpis vel, semper malesuada
-                      ante. Idac bibendum scelerisque non non purus. Suspendisse
-                      varius nibh non aliquet.
+                      Hello, glad to meet you. My name is Jingjing Gu. Web development intern is my role at KellyKinetix. Currently, my teammates and I are implementing features of the e-commerce page. In my free time, I read books and play baritone. Let's study and grow together.
+
                     </p>
                     <p className="overview">
                       <b>Alexandra</b>, Media Analyst
@@ -112,14 +100,11 @@ class App extends Component {
 
                   <div className="carousel-item">
                     <div className="img-box">
-                      <img src="/images/testi_4.jpg" alt="" />
+                      <img src="/photo/1.jpg" alt="" />
                     </div>
                     <p className="testimonial">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Nam eu sem tempor, varius quam at, luctus dui. Mauris
-                      magna metus, dapibus nec turpis vel, semper malesuada
-                      ante. Idac bibendum scelerisque non non purus. Suspendisse
-                      varius nibh non aliquet.
+                      Hello, glad to meet you. My name is Jingjing Gu. Web development intern is my role at KellyKinetix. Currently, my teammates and I are implementing features of the e-commerce page. In my free time, I read books and play baritone. Let's study and grow together.
+
                     </p>
                     <p className="overview">
                       <b>Amber</b>, Game Tester
