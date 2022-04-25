@@ -38,7 +38,7 @@ h2::after {
   position: absolute;
   margin: 0 auto;
   height: 3px;
-  background: #8fbc54;
+  background: #730ce9;
   left: 0;
   right: 0;
   bottom: -10px;
@@ -61,7 +61,7 @@ h2::after {
 }
 
 .carousel .carousel-item {
-  color: #999;
+  color: #ddd;
   font-size: 14px;
   text-align: center;
   overflow: hidden;
@@ -94,7 +94,7 @@ h2::after {
 
 .carousel .overview b {
   text-transform: uppercase;
-  color: #7aa641;
+  color: #730ce9;
 }
 
 .carousel-control-prev,

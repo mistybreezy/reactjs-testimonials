@@ -55,7 +55,7 @@ class App extends Component {
 
                     </p>
                     <p className="overview">
-                      <b>Erwin Agpasa</b>, Software Developer
+                      <b>Jingjing Gu</b>, Web Development Intern
                     </p>
                   </div>
 
@@ -81,7 +81,7 @@ class App extends Component {
 
                     </p>
                     <p className="overview">
-                      <b>Angela</b>, Game Developer
+                      <b>Bob</b>, Game Developer
                     </p>
                   </div>
 
